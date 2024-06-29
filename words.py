@@ -1,0 +1,1 @@
+words = ["danas","dan", "subota","nedjelja","radionica"]
